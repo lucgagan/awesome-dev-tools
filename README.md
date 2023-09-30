@@ -2,6 +2,8 @@
 
 A list of awesome dev tools
 
+If you have a request for a new tool, raise an issue.
+
 * [ASCII to Hex Converter](https://ray.run/tools/ascii-to-hex) – An ASCII to Hex tool converts ASCII (American Standard Code for Information Interchange) text, which represents characters, into hexadecimal format, which is a base-16 number system commonly used in computing and digital systems.
 * [Base64 Decoder](https://ray.run/tools/base64-decoder) – A Base64 text decoder tool converts Base64 text into its original form, allowing for the decoding of binary data that has been encoded using Base64.
 * [Base64 Encoder](https://ray.run/tools/base64-encoder) – A Base64 text encoder tool converts text into Base64, a group of binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation.
